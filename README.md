@@ -3,6 +3,7 @@
 某些小可愛私訊還蠻逗的
 
 安裝步驟：
+
 1.備份SteamLibrary\steamapps\common\Men of War II裡面的resource.zh.pak，進入package資料夾裡頭的ui2以及main這兩個資料夾，各自備份裡面的.zh.pak
 
 2. 打開壓縮檔，把packages資料夾與resource.zh.pak壓縮檔直接丟進SteamLibrary\steamapps\common\Men of War II
